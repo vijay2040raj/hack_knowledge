@@ -1,0 +1,1 @@
+hccap2john wpa-Induction.hccap > crackme 

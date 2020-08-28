@@ -1,0 +1,2 @@
+apt install pip
+pip install --upgrade pip

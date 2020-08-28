@@ -1,0 +1,10 @@
+for send
+//  nc -l -p (port) > filename
+nc -l -p 1234 > safe.jpg
+nc -l -p 1234 > safe.txt.zip
+
+
+for recive
+//  nc -w 3 (ip_add) (port) < filename
+nc -w 3 192.168.1.79 1234 < safe.jpg
+nc -w 3 192.168.1.79 1234 < safe.txt.zip

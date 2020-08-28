@@ -1,0 +1,2 @@
+ 
+If dhcp not work in vm then change the adapter of vm see pic….

@@ -1,0 +1,2 @@
+ 
+aircrack-ng filename.cap -j hashfile_name

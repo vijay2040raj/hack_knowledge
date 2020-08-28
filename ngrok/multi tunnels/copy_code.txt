@@ -1,0 +1,12 @@
+ 
+
+ 
+ tunnels:
+    tcp-1:
+        remote_port: 16032
+        addr: 4321
+        proto: tcp
+    tcp-2:
+        remote_port: 1603
+        addr: 1234
+        proto: tcp

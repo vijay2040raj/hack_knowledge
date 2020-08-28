@@ -1,0 +1,5 @@
+john.exe --format=Raw-MD4 --wordlist=rockyou.txt --rules=hashcat hash.txt
+john.exe --format=Raw-MD4 hash.txt
+john --show --format=Raw-MD4 File-Containing-The-Hash
+echo dc2240d8ee745db929a6944ae7a8d016 > test.md4 && john test.md4 --format=Raw-MD4 --show
+ 

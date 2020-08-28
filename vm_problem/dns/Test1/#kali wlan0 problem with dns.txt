@@ -1,0 +1,17 @@
+﻿#kali wlan0 problem with dns
+
+
+1.)See this folder cmd.txt and wlan0 ip configuration make on automatic
+2.)add adpter in interface
+3.)add nameservers
+4.) Restart network service
+5.) Remove adpter form interface
+6.) Restart network service
+
+
+## Wifi or lan configuration on automatic when Google is run but other is not run or open 
+
+
+
+
+## hope problem will be solved .

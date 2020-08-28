@@ -1,0 +1,7 @@
+ 
+hashcat -a 3 -m 0 example0.hash ?a?a?a?a?a?a
+hashcat -a 1 -m 0 example0.hash example.dict example.dict
+hashcat64.exe -a 0 -m 900 hash.txt rockyou.txt -r rules/dive.rule
+hashcat -a 0 -m 400 example400.hash example.dict
+hashcat -a 0 -m 0 example0.hash example.dict -r rules/best64.rule
+hashcat32.exe -m 900 dc2240d8ee745db929a6944ae7a8d016 -a 3 -o cracked.txt

