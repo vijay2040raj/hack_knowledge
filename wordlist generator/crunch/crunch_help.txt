@@ -1,0 +1,3 @@
+crunch 1 8 -f charset.lst mixalpha-numeric-all-space -o wordlist.txt
+crunch 4 4  -o wordlist.txt -p 86568 50609 96454 69507
+crunch 4 4 1234567890 -t @@@@ -o wordlist.txt

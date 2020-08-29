@@ -1,0 +1,5 @@
+cewl url -w wordlist(output file)
+
+example==>
+
+cewl http://dc-2 -w pass.txt

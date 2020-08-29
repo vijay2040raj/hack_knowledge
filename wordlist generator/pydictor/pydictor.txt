@@ -1,0 +1,1 @@
+python pydictor.py --conf [vijay,raj,vikas,vinay]{1,1}<none>[@]{1,1}<none>[123,abc,abc#,123#]{1,1}<none>

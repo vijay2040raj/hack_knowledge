@@ -1,0 +1,4 @@
+wpscan -e --url url -e u -P wordlists -U wordlists
+
+example==>
+wpscan -e --url http://dc-2/ -e u -P /usr/share/dirb/wordlists/common.txt -U /usr/share/dirb/wordlists/common.txt
