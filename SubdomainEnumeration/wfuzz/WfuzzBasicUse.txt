@@ -1,4 +1,4 @@
-wfuzz -w test/word_api.txt -u 'http://horizontall.htb/' -H "Host: FUZZ.horizontall.htb" --hc 301
+wfuzz -w test/word_api.txt -u 'http://horizontall.htb/' -H "Host: FUZZ.horizontall.htb" --hc 301 
        ^		^   ^		^		 ^          ^			    ^
        |		|   |		|		 |	    |			    |
        |		|   |		|		 |          |			    |
