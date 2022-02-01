@@ -1,0 +1,14 @@
+wfuzz -w test/word_api.txt -u 'http://horizontall.htb/' -H "Host: FUZZ.horizontall.htb" --hc 301
+       ^		^   ^		^		 ^          ^			    ^
+       |		|   |		|		 |	    |			    |
+       |		|   |		|		 |          |			    |
+    [for wordlist]	|[for url]	|	    [for header]    |			[hide response]
+			|		|			[for attack]			^
+		(wordlist path)		|			    ^				|
+					|			    |				|
+				(url where we			    |			   (hide response with
+                                want to request)		[main part]			 code 301 )
+								    ^
+								    |
+								(target attack
+								 location)
